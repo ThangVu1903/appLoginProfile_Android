@@ -14,7 +14,7 @@
         android:theme="@style/Theme.TestApp"
         tools:targetApi="31">
         <activity
-            android:name=".profile"
+            android:name=".ScreenProfile"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
